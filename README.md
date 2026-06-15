@@ -1,5 +1,7 @@
 # Alternative4
 
+<img src="image/top-logo.png" width="400">
+
 ## 📖 概要 (Overview)
 
 本作は、地上と空中を自在に駆け巡るロボットを操り、無限に迫りくる敵を撃破していく3Dアクションサバイバルゲームです。
