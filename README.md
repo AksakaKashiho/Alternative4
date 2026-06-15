@@ -1,6 +1,10 @@
-# Alternative4
+# VALGERN-ON4~ Alternative~
+
+## マブラブ（MuvLuv）とは
 
 <img src="image/top-logo.png" width="400">
+『マブラヴ』（Muv-Luv）は、âgeが製作した青春恋愛アドベンチャーゲーム、およびこれを原作とするメディアミックス作品群の総称。
+その独創的な世界観と深いストーリー性が多くのファンを引き付けている．
 
 ## 📖 概要 (Overview)
 
